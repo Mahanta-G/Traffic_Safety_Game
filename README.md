@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-mailto:mahanta1412@example.com
+mahanta1412@gmail.com
 
 https://github.com/Mahanta-G/Traffic_Safety_Game
 
