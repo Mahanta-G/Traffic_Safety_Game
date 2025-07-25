@@ -28,6 +28,8 @@ A fun and educational web-based game built with TypeScript to promote traffic sa
 
 ## 🚀 Getting Started
 
+🔗 **Live Demo:** [[https://traffic-safety-challenge.netlify.app](https://follow-the-track.netlify.app/)]
+
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
